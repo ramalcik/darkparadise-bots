@@ -19,7 +19,7 @@ Bu proje:
 ## 👥 Katkıda Bulunanlar
 
 - **Altyapı Sahibi:** DevCode  
-- **Ana Sahipler:** Papaz, Ramal, Ancinet  
+- **Ana Sahipler:** Papaz, Ramal, Ancient 
 - **Destek ve Yardım:** MODLOFF — teşekkürler!
 
 ## 🤝 Katkı Sağlamak
