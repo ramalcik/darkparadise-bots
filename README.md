@@ -8,7 +8,7 @@ bu botu yapma amacım bazı asalak insanlar yayilan projelerinde 2 3 komut deği
 Projedeki Sayğı Değer kankim: MODLOFF
 
 # Not: Botun sahibi ile veya darkparadise ile sorunum yoktur bu sistemi yarım yamalak yapıp kod çalarak asalak gibi gezinenlerle sorunum benim.
-
+[url=https://hizliresim.com/nv2psi1][img]https://i.hizliresim.com/nv2psi1.png[/img][/url]
 ![image](https://i.hizliresim.com/nv2psi1.png)
 ![image](https://cdn.discordapp.com/attachments/1357452706641350748/1386471082764013568/image.png?ex=6859d351&is=685881d1&hm=10fbcd7150c9bc3ada89f3ac5c64cae2b5840e02f8a1933c8023e680dcb4be10&)
 ![image](https://cdn.discordapp.com/attachments/1378844766946721865/1386669315062894693/image.png?ex=685a8bef&is=68593a6f&hm=3bf856592c3c4052269f67389c144ef3ae1f073a2929351293f08c19cd28cf37&)
