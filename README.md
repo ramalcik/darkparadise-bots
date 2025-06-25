@@ -35,3 +35,6 @@ Sistemi geliştirmek ya da öneride bulunmak isterseniz pull request gönderebil
 ![image](https://cdn.discordapp.com/attachments/1387169999399157962/1387480378083901510/rozet_js.png?ex=685d7f4c&is=685c2dcc&hm=1cfe16aab9cf59f8e063edf559c123327ee559f6f2bba80ad58ae7e2ef46bbd6&)
 ![image](https://cdn.discordapp.com/attachments/1387169999399157962/1387480335809384598/image-18.png?ex=685d7f42&is=685c2dc2&hm=a81d45b7a73f1598cda9991ffa864210c1d10eb264b828583a2f28cffd81d117&)
 ![image](https://cdn.discordapp.com/attachments/1387169999399157962/1387480336367353887/image-13.png?ex=685d7f42&is=685c2dc2&hm=d53b9e244210d7420a493ba4c8c8755b6f902dda1ce00254ae33e0c972090f69&)
+![image](https://cdn.discordapp.com/attachments/1378844766946721865/1386671921260658688/image.png?ex=685d315d&is=685bdfdd&hm=7fbe950b387c94018cfda934bce7d3428f71cd7b16f2eb05946bfce4ddb9c813&)
+![image](https://cdn.discordapp.com/attachments/1276541959972061277/1386632602978488320/image.png?ex=685d0cbe&is=685bbb3e&hm=dc812a5e59ff7cfbca369ae15b52eec90f83425e7384b1e83c2245775a39d4f9&)
+![image](https://cdn.discordapp.com/attachments/1276541959972061277/1386633265464741919/image.png?ex=685d0d5c&is=685bbbdc&hm=ce46da2e19dc71bf5591bf657ff07c9549ba7b9ea6ca45f12b3da447ffb541fb&)
